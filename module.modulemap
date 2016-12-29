@@ -1,0 +1,4 @@
+module CAndroidAppGlue [system] {
+    header "shim.h"
+    export *
+}
